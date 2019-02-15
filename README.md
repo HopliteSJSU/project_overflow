@@ -6,7 +6,7 @@ Current Tasks to be implemented
 
 
 - [x] Setup Repo
-- [ ] Setup Project Initial Files
+- [x] Setup Project Initial Files
 - [ ] Add Docs for reference
 - [ ] Add features that need to be implemented
 - [ ] Add React and Node resources
